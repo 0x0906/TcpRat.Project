@@ -32,8 +32,8 @@ View and manage running processes on lab computers, providing administrators wit
 This project is intended for educational purposes only. It does not implement encrypted communication, and its use in production environments is strongly discouraged. Use it responsibly and adhere to ethical guidelines and legal regulations.
 
 ## Reference
-⨀ [AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)
-⨀ [Quasar](https://github.com/quasar/Quasar)
+* [AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)
+* [Quasar](https://github.com/quasar/Quasar)
 
 ## License
 
