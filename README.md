@@ -1,4 +1,4 @@
-# Simple Remote Admin Tool
+# Simple Remote Adminstrator Tool
 
 ## Overview
 
